@@ -1,0 +1,43 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    background-color: white;
+    color: black;
+}
+
+h1 {
+    color: black;
+    font-size: 2em;
+}
+
+h2 {
+    color: #8B0000;
+    font-size: 1em;
+}
+
+nav a {
+    color: black;
+    text-decoration: underline;
+}
+
+nav a:hover {
+    color: #8B0000;
+}
+
+.email {
+    color: #8B0000;
+}
+
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: #8B0000;
+}
